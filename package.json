@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "nhsuk-frontend-vue-3",
   "private": true,
   "scripts": {
     "serve": "yarn --cwd docs serve",
@@ -23,5 +23,21 @@
     "vue": "^3.2.25",
     "vue-router": "^4.0.12",
     "vue-tsc": "^0.29.8"
-  }
+  },
+  "description": "This is an **unofficial** port of [nhsuk-frontend library](https://github.com/nhsuk/nhsuk-frontend/) in to a vue.js component library.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rich-bjss/nhsuk-frontend-vue.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rich-bjss/nhsuk-frontend-vue/issues"
+  },
+  "homepage": "https://github.com/rich-bjss/nhsuk-frontend-vue#readme"
 }
